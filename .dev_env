@@ -1,0 +1,25 @@
+ENV_NAME=development
+#one signal
+ONE_SIGNAL_APP_ID = 1a9fcf3b-74ae-4994-a9cf-d579427ba3b9
+COMET_CHAT_APP_ID = 2361383067d51850
+COMET_CHAT_AUTH_KEY = 18f1a9e25f6ff60beadf999800454fbc4aa08182
+COMET_CHAT_REGION = eu
+
+#sentry
+SENTRY_URL=https://a3c00e0ed4d44044b826474b923e7985@o4504959358271488.ingest.sentry.io/4504959359975424
+#graphql
+GRAPHQL_BASE_URL=https://eu-west-1.aws.realm.mongodb.com/api/client/v2.0/app/konverge_dev-nxnpu/graphql
+#rest api
+API_BASE_URL=https://dev-profile-match-algorithm.emvigotech.co.uk
+
+#aws credentials
+COGNITO_OAUTH_DOMAIN_URL=konverge-dev-test.auth.eu-west-2.amazoncognito.com
+APP_CLIENT_ID=20lpq6vd349rj9er3mfmhqpaht
+SIGN_IN_REDIRECT_URI=konverge://
+SIGN_OUT_REDIRECT_URI=konverge://
+IDENTITY_POOL_ID=eu-west-2:5cf5464c-5eda-422c-9c95-fabcc3f9dbf2
+USER_POOL_ID=eu-west-2_0IHGU0fLm
+REGION=eu-west-2
+S3_BUCKET_NAME=konverge-s3
+S3_BASE_URL=https://konverge-s3.s3.eu-west-2.amazonaws.com
+DEV_API=https://dev-api-konverge.emvigotech.co.uk/api

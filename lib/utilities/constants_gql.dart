@@ -1,0 +1,4 @@
+enum ConstantGql {
+  resultOk,
+  errorUnknown,
+}

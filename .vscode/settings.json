@@ -1,0 +1,54 @@
+{
+  "cSpell.words": [
+    "ACACAC",
+    "appinio",
+    "ARGB",
+    "Autovalidate",
+    "birthdate",
+    "cometchat",
+    "concat",
+    "Configurator",
+    "cupertino",
+    "dartz",
+    "datetime",
+    "firstname",
+    "fullname",
+    "Gopal",
+    "jailbroken",
+    "Jithin",
+    "konvege",
+    "konverge",
+    "lastname",
+    "mannualy",
+    "onesignal",
+    "passcode",
+    "phonenumber",
+    "precache",
+    "Reclip",
+    "Redirections",
+    "reorderable",
+    "Roboto",
+    "signup",
+    "skillset",
+    "superlike",
+    "swipeable",
+    "swiper",
+    "timeago",
+    "uikit",
+    "vsync",
+    "xlider"
+  ],
+  "dart.flutterSdkPath": ".fvm/flutter_sdk",
+  // Remove .fvm files from search
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  // Remove from file watching
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}

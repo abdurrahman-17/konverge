@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "629680213555",
+    "project_id": "dev-konverge",
+    "storage_bucket": "dev-konverge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629680213555:android:9a853e53d8ab8aa6989d46",
+        "android_client_info": {
+          "package_name": "com.app.konverge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629680213555-c9mllm74ae6o1f5p2ts6brki6c276vqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__0uRNimlvuPnDUmapjCKecUGrl5xEK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629680213555-4r5k70089pfebkvtud635memjcji3e6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629680213555-126laiejv7vfirthpelmji36p229pnr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.konverge"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629680213555:android:ce1b944a2faa4d46989d46",
+        "android_client_info": {
+          "package_name": "com.konverge.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629680213555-5t5a3j61hbndvo25cino3dqfr2345u5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konverge.app",
+            "certificate_hash": "bce3dc14852edcb48551b3ffe92e1b2be66b3f5d"
+          }
+        },
+        {
+          "client_id": "629680213555-c27ecgvda3rtmtufp5ro8drptkf42amb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konverge.app",
+            "certificate_hash": "cfc93766d6b44afc08e2ec4e1c0a5f42fab159c5"
+          }
+        },
+        {
+          "client_id": "629680213555-cbk97rrini3ocqpt9q4p62iur4rbrlst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konverge.app",
+            "certificate_hash": "89b6ad3fac2c6d876bc1cc3e4d464b6c479805ef"
+          }
+        },
+        {
+          "client_id": "629680213555-c9mllm74ae6o1f5p2ts6brki6c276vqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB__0uRNimlvuPnDUmapjCKecUGrl5xEK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629680213555-4r5k70089pfebkvtud635memjcji3e6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629680213555-126laiejv7vfirthpelmji36p229pnr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.konverge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
